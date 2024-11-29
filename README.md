@@ -63,6 +63,7 @@ Following are the Topics and Concepts learnt/covered:
 ## Database Technologies
 
 Following are the Topics and Concepts learnt/covered: 
+
 ![Updating ....](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=B7B7B7&vCenter=true&width=435&lines=Updating+....)
 
 
@@ -84,6 +85,7 @@ Following are the Topics and Concepts learnt/covered:
 ## Python
 
 Following are the Topics and Concepts learnt/covered: 
+
 ![Updating ....](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=B7B7B7&vCenter=true&width=435&lines=Updating+....)
 
 
