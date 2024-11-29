@@ -5,9 +5,9 @@
 
 <br>
 <p align="center">
-    <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Data_Structures-2B547E?style=for-the-badge&logo=folder" alt="Data Structures"></a>
-    <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Database_Technologies-2B547E?style=for-the-badge&logo=folder" alt="Database Technologies"></a>
-    <a href=""><img src="https://custom-icon-badges.demolab.com/badge/Python-2B547E?style=for-the-badge&logo=folder" alt="Python"></a>
+    <a href="https://github.com/ChaitanyaShah26/semester-3/tree/main/Data_Structures"><img src="https://custom-icon-badges.demolab.com/badge/Data_Structures-2B547E?style=for-the-badge&logo=folder" alt="Data Structures"></a>
+    <a href="https://github.com/ChaitanyaShah26/semester-3/tree/main/Database_Technologies"><img src="https://custom-icon-badges.demolab.com/badge/Database_Technologies-2B547E?style=for-the-badge&logo=folder" alt="Database Technologies"></a>
+    <a href="https://github.com/ChaitanyaShah26/semester-3/tree/main/Python"><img src="https://custom-icon-badges.demolab.com/badge/Python-2B547E?style=for-the-badge&logo=folder" alt="Python"></a>
 </p> 
 
 
