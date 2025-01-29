@@ -53,10 +53,6 @@ Following are the Topics and Concepts learnt/covered:
 
 ![C](https://go-skill-icons.vercel.app/api/icons?i=c)
 
-<details>
-    <summary>List of Experiments</summary>
-    Updating soon....!
-</details>
 
 
 
@@ -75,10 +71,6 @@ Following are the Topics and Concepts learnt/covered:
 ![Neo4j](https://simpleskill.icons.workers.dev/svg?i=neo4j)
 
 
-<details>
-    <summary>List of Experiments</summary>
-    Updating soon....!
-</details>
 
 
 
@@ -100,10 +92,6 @@ Following are the Topics and Concepts learnt/covered:
 ![Seaborn](https://go-skill-icons.vercel.app/api/icons?i=seaborn)
 
 
-<details>
-    <summary>List of Experiments</summary>
-    Updating soon....!
-</details>
 
 
 
