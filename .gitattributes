@@ -1,0 +1,2 @@
+*.md linguist-detectable
+src/*.sql linguist-detectable
